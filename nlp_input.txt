@@ -1,0 +1,6 @@
+Natural Language Processing (NLP) is an exciting field of AI. 
+It focuses on the interaction between humans and computers using natural language. 
+Tokenization, stemming, and lemmatization are some of its core techniques. 
+The quick brown fox jumps over the lazy dog.
+She sells seashells by the seashore.
+I love programming in Python.
